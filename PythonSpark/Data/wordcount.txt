@@ -1,7 +1,0 @@
-hello spark
-hello hadoop
-hello hive
-hello hbase
-hello you
-world world
-i love you
